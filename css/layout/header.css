@@ -1,0 +1,54 @@
+.header {
+    background-color: #2c3b45;
+    color: #fff;
+    padding-top: 30px;
+}
+
+.header__content {}
+
+.menu {}
+
+.logo {
+    display: inline-block;
+    line-height: 0;
+    margin-right: 200px;
+}
+
+.logo__img {}
+
+.nav {
+    display: inline-block;
+    margin-right: 211px;
+    transform: translateY(-30px);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.nav__list {}
+
+.header__nav-list {
+    background: #404f59;
+    padding: 20px 40px;
+    border-radius: 0 0 10px 10px;
+}
+
+.nav__item {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.nav__item:last-child {
+    margin-right: 0px;
+}
+
+.nav__link {}
+
+.phone {
+    display: inline-block;
+}
+
+.header__phone {}
+
+.phone__icon {}
+
+.phone__link {}
